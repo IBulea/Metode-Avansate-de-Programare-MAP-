@@ -1,0 +1,7 @@
+d Stack 
+( a = 3 ; ( b = a+1 ; if a then Print ( b ) else Print ( a*a ) ) ) 
+ 
+ Dictionary 
+
+ List 
+ 

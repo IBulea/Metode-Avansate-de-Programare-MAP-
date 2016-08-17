@@ -1,0 +1,6 @@
+a=3;b=a+1;If a Then Print (b) Else Print (a*a)
+
+
+{}
+
+[]
